@@ -1,11 +1,11 @@
 #ifndef GAME_H
 #define GAME_H
 
-#define B 'B'	// black
-#define W 'W'	// white
-#define U 'U'	// undecided
-#define TIE 'T'	// tie
-#define ONGOING 'O'	// ongoing
+#define B 'B'			// black
+#define W 'W'			// white
+#define U 'U'			// undecided
+#define TIE 'T'			// tie
+#define ONGOING 'O'		// ongoing
 
 #define MAX_BOARD_LEN 10
 
