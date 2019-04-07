@@ -1,7 +1,7 @@
 #ifndef AI_H
 #define AI_H
 
-#define SEARCH_DEPTH 5
+#define SEARCH_DEPTH 8
 
 #include "game.h"
 #include <stdbool.h>
